@@ -1,6 +1,10 @@
 # Assignment
 
-## Objectives
+To run program, simply type in 'node index.js' into your terminal. This will start the
+server. Then go to 'localhost:3000' where you will find the page with a random movie quote
+every time you refresh.
+
+<!-- ## Objectives
 
 By the end of this project you will:
 
@@ -29,4 +33,4 @@ Please include the url to your forked repository with the fixed webserver in you
 ## References
 
 - [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
-- [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
+- [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/) -->
